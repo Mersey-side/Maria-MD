@@ -38,7 +38,7 @@ global.autoread_status = true //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*PRIDE OF MERSEYSIDE*\n\n*♟💫⭐🌠✨♟ Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*PRIDE OF MERSEYSIDE*\n\n*♟💫⭐🌠✨♟ Bot link:* \nhttps://https://github.com/Mersey-side/Maria-MD.git\n',
     prem: '*yooh hapa hauwezani🙌 *',
     admin: '*This feature can be used by admin only⚠⚠⚠*',
     botAdmin: '*This feature can only be used when the bot is a group admin⚠⚠⚠* ',
