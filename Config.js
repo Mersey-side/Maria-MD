@@ -13,7 +13,7 @@ global.botname = 'PRIDE OF MERSEYSIDE' //name of the bot
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria MD'
+global.author = 'Merseyside'
 //console view/theme
 global.themeemoji = '♟💫⭐🌠✨♟'
 global.wm = "Ayush botz inc."
